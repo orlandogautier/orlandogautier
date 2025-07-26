@@ -3,7 +3,7 @@ I'm an accomplished IT Specialist and System Administrator with over 20 years of
 
 ## Skills:
 - Google Cloud Platform (GCP)
-- Python, Make.com, n8n, Zapier, .bat scripting
+- Python, Make.com, n8n, Zapier, Airtable, .bat scripting
 - Windows Server (AD, DNS, DHCP), Linux (Ubuntu, CentOS)
 - HTML, CSS, JavaScript
 - TCP/IP, Fortinet, Checkpoint, DNS, VPNs, Malware Mitigation
